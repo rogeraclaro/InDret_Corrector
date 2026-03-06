@@ -1,0 +1,91 @@
+@font-face {
+    font-family: 'indretlectitalic';
+    src: url('tipos/indretlect-italic-webfont.woff2') format('woff2'),
+         url('tipos/indretlect-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'indretlectmedium_italic';
+    src: url('tipos/indretlect-mediumitalic-webfont.woff2') format('woff2'),
+         url('tipos/indretlect-mediumitalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'indretlectsemibold_italic';
+    src: url('tipos/indretlect-semibolditalic-webfont.woff2') format('woff2'),
+         url('tipos/indretlect-semibolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'indretbold';
+    src: url('tipos/indret-bold-webfont.woff2') format('woff2'),
+         url('tipos/indret-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'indretregular';
+    src: url('tipos/indret-regular-webfont.woff2') format('woff2'),
+         url('tipos/indret-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* ####### Generades per Fontie ########## */
+
+@font-face {
+    font-family:'indrettext';
+	src: url('tipos/indrettext-Bold.woff2') format('woff2'),
+		url('tipos/indrettext-Bold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-00FE;
+}
+
+@font-face {
+    font-family:'indrettext';
+	src: url('tipos/indrettext-BoldItalic.woff2') format('woff2'),
+		url('tipos/indrettext-BoldItalic.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+    font-stretch: normal;
+    unicode-range: U+0020-00FE;
+}
+
+@font-face {
+    font-family:'indrettext';
+	src: url('tipos/indrettext-Regular.woff2') format('woff2'),
+		url('tipos/indrettext-Regular.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-00FE;
+}
+
+@font-face {
+    font-family:'indrettext Light';
+    src: url('tipos/indrettext-Light.woff2') format('woff2'),
+        url('tipos/indrettext-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-00FE;
+}
+
+@font-face {
+    font-family:'indrettext Light';
+    src: url('tipos/indrettext-LightItalic.woff2') format('woff2'),
+        url('tipos/indrettext-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-stretch: normal;
+    unicode-range: U+0020-00FE;
+}
